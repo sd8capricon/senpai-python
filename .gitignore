@@ -1,0 +1,10 @@
+# Virtual Environment
+venv
+venv-win
+venv-linux
+
+# videos
+vids
+
+# miscellanenous
+.idea
